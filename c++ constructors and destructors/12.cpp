@@ -5,7 +5,7 @@ fmul() , and fdiv() . Each of these functions should take two arguments of type 
 fraction , and return an argument of the same type.
 */
 
-//author @Nishant
+//author @mansoor.wani
 
 #include<iostream>
 
