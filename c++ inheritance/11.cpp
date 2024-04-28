@@ -13,7 +13,8 @@ not $0,000,000,000,003,124.95. Don’t forget to terminate the string with a ‘
 Write a main() program to exercise this function by having the user repeatedly input
 numbers in type long double format, and printing out the result as a money string.
 */
-//author @Nishant
+//author  @mansoor.wani
+
 
 #include <iostream>
 #include <string>
