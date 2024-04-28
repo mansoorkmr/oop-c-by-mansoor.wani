@@ -8,7 +8,8 @@ pyramid should look like this
 	XXXXXXXXX
 */
 
-// author @Nishant
+// author  @mansoor.wani
+
 
 #include<iostream>
 
