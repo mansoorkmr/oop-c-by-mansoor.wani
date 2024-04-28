@@ -3,7 +3,8 @@ Create a structure called time . Its three members, all type int , should be cal
 seconds represented by this time value.
 */
 
-//author @Nishant
+//author  @mansoor.wani
+
 
 #include<iostream>
 
