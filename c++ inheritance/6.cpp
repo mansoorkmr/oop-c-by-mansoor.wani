@@ -4,7 +4,8 @@ entire deck. Modify the CARDARAY program in this chapter so that, after shufflin
 deck, it deals four hands of 13 cards each. Each of the four players’ hands should then be
 displayed.
 */
-//author @Nishant
+//author  @mansoor.wani
+
 
 #include <iostream>
 #include <cstdlib>
