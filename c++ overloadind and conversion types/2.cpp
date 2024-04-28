@@ -14,7 +14,8 @@ to count a paying car, and another to count a nonpaying car. Pushing the Esc key
 cause the program to print out the total cars and total cash and then exit.
 */
 
-// author @Nishant
+// author  @mansoor.wani
+
 
 #include<iostream>
 
