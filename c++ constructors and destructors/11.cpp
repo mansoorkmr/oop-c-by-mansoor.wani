@@ -8,7 +8,7 @@ return a value of the same type, which is the sum of the arguments. The third sh
 a sterling structure as its argument and display its value.
 */
 
-//author @Nishant
+//author @mansoor.wani
 
 #include <iostream>
 using namespace std;
