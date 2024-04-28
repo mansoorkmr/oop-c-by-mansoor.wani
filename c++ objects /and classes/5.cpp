@@ -5,7 +5,8 @@ the user enter a date in the format 12/31/2001, store it in a variable of type s
 then retrieve the values from the variable and print them out in the same format.
 */
 
-//author @Nishant
+//author  @mansoor.wani
+
 
 #include<iostream>
 using namespace std;
