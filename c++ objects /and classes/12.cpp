@@ -4,7 +4,8 @@ each fraction is stored internally as a variable of type struct fraction , as di
 Exercise 8 in this chapter.
 */
 
-//author @Nishant
+//author @mansoor.wani
+
 
 #include<iostream>
 
