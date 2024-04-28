@@ -5,7 +5,8 @@ gram, not those in the function.) You’ll need to decide how to pass the argume
 a main() program to exercise the function
 */
 
-//author @Nishant
+//author @mansoor.wani
+
 
 #include <iostream>
 using namespace std;
