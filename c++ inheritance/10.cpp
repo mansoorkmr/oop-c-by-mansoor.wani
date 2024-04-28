@@ -6,7 +6,8 @@ should allow the programmer to specify the actual dimensions of the matrix (prov
 they’re less than 10 by 10). The member functions that access data in the matrix will now
 need two index numbers: one for each dimension of the array.
 */
-//author @Nishant
+//author  @mansoor.wani
+
 
 #include <iostream>
 
