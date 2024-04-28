@@ -5,7 +5,7 @@ argument of type float and return an argument of the same type. Write a main() f
 tion that gets a radius value from the user, calls circarea() , and displays the result.
 */
 
-//author @Nishant 
+//author @mansoor.wani
 
 #include<iostream>
 
