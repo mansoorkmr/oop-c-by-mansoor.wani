@@ -7,7 +7,7 @@ takes as its only argument a time in seconds (type long ), and returns a
 structure of type time .
 */
 
-//author @Nishant
+//author @mansoor.wani
 
 #include <iostream>
 using namespace std;
