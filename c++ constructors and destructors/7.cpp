@@ -5,7 +5,7 @@ also work with types char , int , long , and float . Write a main() program that
 these overloaded functions with all argument types.
 */
 
-//author @Nishant
+//author @mansoor.wani
 
 #include <iostream>
 using namespace std;
