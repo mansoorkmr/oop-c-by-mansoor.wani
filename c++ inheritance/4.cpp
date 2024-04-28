@@ -6,7 +6,8 @@ the address of the array and the number of elements in it, and return the index 
 the largest element. The program should call this function and then display the largest
 element and its index number. (See the SALES program in this chapter.)
 */
-//author @Nishant
+//author  @mansoor.wani
+
 
 #include<bits/stdc++.h>
 using namespace std;
