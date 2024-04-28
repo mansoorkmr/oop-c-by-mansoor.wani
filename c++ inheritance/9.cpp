@@ -16,7 +16,8 @@ items are added and removed from the queue. This results in an added complexity:
 When either the tail or the head gets to the end of the array, it must wrap around to the
 beginning.
 */
-//author @Nishant
+//author  @mansoor.wani
+
 #include<bits/stdc++.h>
 using namespace std;
 
