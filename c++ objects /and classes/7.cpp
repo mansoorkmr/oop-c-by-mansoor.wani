@@ -4,7 +4,8 @@ Write a program that first allows the user to specify a type by entering its fir
 enum etype , and finally displays the complete word
 */
 
-//author @Nishant
+//author  @mansoor.wani
+
 
 #include<iostream>
 
