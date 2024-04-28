@@ -15,7 +15,8 @@ Using functions to access array elements doesn’t look as eloquent as using the
 operator. In Chapter 8 we’ll see how to overload this operator to make our safearay
 class work more like built-in arrays.
 */
-//author @Nishant
+//author  @mansoor.wani
+
 
 #include <iostream>
 
