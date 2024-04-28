@@ -6,7 +6,7 @@ argument is omitted, the number n will be squared. Write a main() function that 
 ues from the user to test this function.
 */
 
-//author @Nishant
+//author @mansoor.wani
 
 #include <iostream>
 using namespace std;
