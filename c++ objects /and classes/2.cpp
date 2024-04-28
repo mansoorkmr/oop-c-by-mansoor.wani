@@ -4,7 +4,8 @@ and have the user input values to two of them. Then set the third point equal to
 of the other two, and display the value of the new point.
 */
 
-//author @Nishant
+//author  @mansoor.wani
+
 
 #include<iostream>
 
