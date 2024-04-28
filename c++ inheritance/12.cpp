@@ -8,7 +8,8 @@ call it madd(). Adding bMoney objects is easy: Just add the long double member d
 amounts in two bMoney objects. Write a main() program that repeatedly asks the user to
 enter two money strings, and then displays the sum as a money string.
 */
-//author @Nishant
+//author @mansoor.wani
+
 
 #include <iostream>
 #include <string>
