@@ -3,7 +3,8 @@ Repeat Exercise 8, but instead of two int variables, have the swap() function in
 change two struct time values (see Exercise 6).
 */
 
-//author @Nishant
+//author @mansoor.wani
+
 
 #include <iostream>
 using namespace std;
