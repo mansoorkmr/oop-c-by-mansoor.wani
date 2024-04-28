@@ -4,7 +4,7 @@ and then sets the smaller of the two numbers to 0. Write a main() program to exe
 this function.
 */
 
-//author @Nishant
+//author @mansoor.wani
 
 #include <iostream>
 using namespace std;
