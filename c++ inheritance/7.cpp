@@ -13,7 +13,8 @@ You’ll need to treat the money string as an array of characters, and go throug
 by character, copying only digits (1–9) and the decimal point into another string. Ignore
 everything else, including the dollar sign and the commas
 */
-//author @Nishant
+//author  @mansoor.wani
+
 
 #include <iostream>
 #include <cstring>
