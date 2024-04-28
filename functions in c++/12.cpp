@@ -7,7 +7,8 @@ The user should type the first fraction, an operator, and a second fraction. The
 should then display the result and ask whether the user wants to continue.
 */
 
-//author @Nishant
+//author  @mansoor.wani
+
 
 #include<iostream>
 
