@@ -10,7 +10,8 @@ probably need switch statements to handle the etype variable. Write a main() pro
 allows the user to enter data for three employee variables and then displays this data.
 */
 
-// author @Nishant
+// author @mansoor.wani
+
 
 #include<iostream>
 
