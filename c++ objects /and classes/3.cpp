@@ -7,7 +7,8 @@ of type float representing feet and fractions of a foot, and then multiply the r
 three numbers.
 */
 
-// author @Nishant
+// author  @mansoor.wani
+
 
 #include<iostream>
 
