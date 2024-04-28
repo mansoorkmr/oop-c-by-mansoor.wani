@@ -8,7 +8,8 @@ greatest common divisor (gcd) of the fraction’s numerator and denominator, and
 gcd to divide both numbers.
 */
 
-// author @Nishant
+// author  @mansoor.wani
+
 
 #include<iostream>
 
