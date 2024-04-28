@@ -5,7 +5,8 @@ many years it will take, at a fixed rate of interest compounded yearly, to reach
 amount.
 */
 
-//author @Nishant
+//author  @mansoor.wani
+
 
 #include<iostream>
 
