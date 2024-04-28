@@ -7,7 +7,8 @@ call reversit() , and print out the result. Use an input method that allows embe
 blanks. Test the program with Napoleon’s famous phrase, “Able was I ere I saw Elba.”
 */
 
-//author @Nishant
+//author @mansoor.wani
+
 
 #include<bits/stdc++.h>
 using namespace std;
