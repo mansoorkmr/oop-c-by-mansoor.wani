@@ -6,7 +6,7 @@ hours, minutes, and seconds from the user (format 12:59:59), calling the functio
 displaying the value of seconds it returns.
 */
 
-//author @Nishant
+//author @mansoor.wani
 
 #include <iostream>
 using namespace std;
