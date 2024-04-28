@@ -6,7 +6,8 @@ phone . Create two structure variables of type phone . Initialize one, and have 
 input a number for the other one. Then display both numbers.
 */
 
-//author @Nishant
+//author  @mansoor.wani
+
 
 #include<iostream>
 
