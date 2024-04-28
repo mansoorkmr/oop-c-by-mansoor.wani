@@ -7,7 +7,8 @@ Write a main() program to exercise this class. It should create an array of type
 and then invite the user to input data for up to 100 employees. Finally, it should print out
 the data for all the employees.
 */
-//author @Nishant
+//author @mansoor.wani
+
 
 #include<bits/stdc++.h>
 using namespace std;
