@@ -4,7 +4,7 @@ Include a main() program that accepts two Distance values from the user, compare
 them, and displays the larger. (See the RETSTRC program for hints.)
 */
 
-//author @Nishant
+//author @mansoor.wani
 
 #include <iostream>
 using namespace std;
