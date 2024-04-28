@@ -16,7 +16,8 @@ loop, allows the user to input any angle value, and then displays the value. You
 the hex character constant ‘\xF8’ , which usually prints a degree (°) symbol.
 */
 
-// author @Nishant
+// author  @mansoor.wani
+
 
 #include<iostream>
 
