@@ -5,7 +5,8 @@ The calculator should allow the user to add or subtract two money amounts, or to
 ply a money amount by a floating-point number.
 */
 
-// author @Nishant
+// author  @mansoor.wani
+
 
 #include<iostream>
 
