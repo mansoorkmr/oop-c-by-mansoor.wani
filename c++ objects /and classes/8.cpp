@@ -2,7 +2,8 @@
 Modify the program so that all fractions are stored in variables of type struct fraction , whose two members are the fraction’s numerator and denominator (both type int ). All fraction-related data should be stored in structures of this type.
 */
 
-//author @Nishant
+//author  @mansoor.wani
+
 
 #include<iostream>
 
