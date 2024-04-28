@@ -6,7 +6,8 @@ and then generate all combinations of two such fractions that are between 0 and 
 multiply them together. Here’s an example of the output if the denominator is 6
 */
 
-// author @Nishant
+// author  @mansoor.wani
+
 
 #include<iostream>
 #include<iomanip>
