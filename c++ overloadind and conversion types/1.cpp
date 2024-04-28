@@ -8,7 +8,8 @@ Int values, adding the two initialized values and placing the response in the un
 value, and then displaying this result.
 */
 
-// author @Nishant
+// author  @mansoor.wani
+
 
 #include<iostream>
 
