@@ -5,7 +5,8 @@ compensation. Member functions should allow the user to enter this data and disp
 Write a main() that allows the user to enter data for three employees and display it.
 */
 
-// author @Nishant
+// author  @mansoor.wani
+
 
 #include<iostream>
 
