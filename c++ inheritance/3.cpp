@@ -6,7 +6,8 @@ from the ENGLCON example in Chapter 6. You’ll also need a member function that
 a Distance value by an integer. Here’s one possibility:
 */
 
-//author @Nishant
+//author  @mansoor.wani
+
 
 #include <bits/stdc++.h>
 using namespace std;
