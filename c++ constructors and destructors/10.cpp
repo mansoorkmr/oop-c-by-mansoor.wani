@@ -6,7 +6,7 @@ First, use a global variable to store the count. Second, use a local static vari
 is more appropriate? Why can’t you use a local variable?
 */
 
-//author @Nishant
+//author @mansoor.wani
 
 #include <iostream>
 using namespace std;
